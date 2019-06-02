@@ -1,4 +1,4 @@
-package com.test.rmq.config;
+package edu.test.rmq.config;
 
 import org.springframework.amqp.rabbit.connection.ConnectionFactory;
 import org.springframework.amqp.rabbit.connection.RabbitConnectionFactoryBean;

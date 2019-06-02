@@ -1,4 +1,4 @@
-package com.test.rmq.listener;
+package edu.test.rmq.listener;
 
 import org.springframework.amqp.core.Message;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
